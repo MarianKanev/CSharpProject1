@@ -1,0 +1,1 @@
+c:\users\marian\documents\visual studio 2015\Projects\Select_data_from_MySQL\Select_data_from_MySQL\bin\Debug\Select_data_from_MySQL.exe.config

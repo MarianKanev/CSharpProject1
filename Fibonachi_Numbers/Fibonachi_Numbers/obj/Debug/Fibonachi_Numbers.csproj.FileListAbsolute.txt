@@ -1,0 +1,6 @@
+c:\users\marian\documents\visual studio 2015\Projects\Fibonachi_Numbers\Fibonachi_Numbers\bin\Debug\Fibonachi_Numbers.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Fibonachi_Numbers\Fibonachi_Numbers\bin\Debug\Fibonachi_Numbers.exe
+c:\users\marian\documents\visual studio 2015\Projects\Fibonachi_Numbers\Fibonachi_Numbers\bin\Debug\Fibonachi_Numbers.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Fibonachi_Numbers\Fibonachi_Numbers\obj\Debug\Fibonachi_Numbers.csprojResolveAssemblyReference.cache
+c:\users\marian\documents\visual studio 2015\Projects\Fibonachi_Numbers\Fibonachi_Numbers\obj\Debug\Fibonachi_Numbers.exe
+c:\users\marian\documents\visual studio 2015\Projects\Fibonachi_Numbers\Fibonachi_Numbers\obj\Debug\Fibonachi_Numbers.pdb

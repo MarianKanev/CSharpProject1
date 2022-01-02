@@ -1,0 +1,6 @@
+c:\users\marian\documents\visual studio 2015\Projects\Rectangle_Properties\Rectangle_Properties\bin\Debug\Rectangle_Properties.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Rectangle_Properties\Rectangle_Properties\bin\Debug\Rectangle_Properties.exe
+c:\users\marian\documents\visual studio 2015\Projects\Rectangle_Properties\Rectangle_Properties\bin\Debug\Rectangle_Properties.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Rectangle_Properties\Rectangle_Properties\obj\Debug\Rectangle_Properties.csprojResolveAssemblyReference.cache
+c:\users\marian\documents\visual studio 2015\Projects\Rectangle_Properties\Rectangle_Properties\obj\Debug\Rectangle_Properties.exe
+c:\users\marian\documents\visual studio 2015\Projects\Rectangle_Properties\Rectangle_Properties\obj\Debug\Rectangle_Properties.pdb

@@ -1,0 +1,6 @@
+c:\users\marian\documents\visual studio 2015\Projects\Greater_Number\Greater_Number\bin\Debug\Greater_Number.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Greater_Number\Greater_Number\bin\Debug\Greater_Number.exe
+c:\users\marian\documents\visual studio 2015\Projects\Greater_Number\Greater_Number\bin\Debug\Greater_Number.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Greater_Number\Greater_Number\obj\Debug\Greater_Number.csprojResolveAssemblyReference.cache
+c:\users\marian\documents\visual studio 2015\Projects\Greater_Number\Greater_Number\obj\Debug\Greater_Number.exe
+c:\users\marian\documents\visual studio 2015\Projects\Greater_Number\Greater_Number\obj\Debug\Greater_Number.pdb

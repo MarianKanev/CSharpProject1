@@ -1,0 +1,5 @@
+c:\users\marian\documents\visual studio 2015\Projects\Characters_Strings\Characters_Strings\bin\Debug\Characters_Strings.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Characters_Strings\Characters_Strings\bin\Debug\Characters_Strings.exe
+c:\users\marian\documents\visual studio 2015\Projects\Characters_Strings\Characters_Strings\bin\Debug\Characters_Strings.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Characters_Strings\Characters_Strings\obj\Debug\Characters_Strings.exe
+c:\users\marian\documents\visual studio 2015\Projects\Characters_Strings\Characters_Strings\obj\Debug\Characters_Strings.pdb

@@ -1,0 +1,6 @@
+c:\users\marian\documents\visual studio 2015\Projects\InchesToCentimeters\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\InchesToCentimeters\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe
+c:\users\marian\documents\visual studio 2015\Projects\InchesToCentimeters\InchesToCentimeters\bin\Debug\InchesToCentimeters.pdb
+c:\users\marian\documents\visual studio 2015\Projects\InchesToCentimeters\InchesToCentimeters\obj\Debug\InchesToCentimeters.csprojResolveAssemblyReference.cache
+c:\users\marian\documents\visual studio 2015\Projects\InchesToCentimeters\InchesToCentimeters\obj\Debug\InchesToCentimeters.exe
+c:\users\marian\documents\visual studio 2015\Projects\InchesToCentimeters\InchesToCentimeters\obj\Debug\InchesToCentimeters.pdb

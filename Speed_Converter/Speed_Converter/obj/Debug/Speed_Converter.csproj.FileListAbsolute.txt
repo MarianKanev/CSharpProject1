@@ -1,0 +1,6 @@
+c:\users\marian\documents\visual studio 2015\Projects\Speed_Converter\Speed_Converter\bin\Debug\Speed_Converter.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Speed_Converter\Speed_Converter\bin\Debug\Speed_Converter.exe
+c:\users\marian\documents\visual studio 2015\Projects\Speed_Converter\Speed_Converter\bin\Debug\Speed_Converter.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Speed_Converter\Speed_Converter\obj\Debug\Speed_Converter.csprojResolveAssemblyReference.cache
+c:\users\marian\documents\visual studio 2015\Projects\Speed_Converter\Speed_Converter\obj\Debug\Speed_Converter.exe
+c:\users\marian\documents\visual studio 2015\Projects\Speed_Converter\Speed_Converter\obj\Debug\Speed_Converter.pdb

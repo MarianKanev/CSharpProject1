@@ -1,0 +1,6 @@
+c:\users\marian\documents\visual studio 2015\Projects\Excelent_or_Not\Excelent_or_Not\bin\Debug\Excelent_or_Not.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Excelent_or_Not\Excelent_or_Not\bin\Debug\Excelent_or_Not.exe
+c:\users\marian\documents\visual studio 2015\Projects\Excelent_or_Not\Excelent_or_Not\bin\Debug\Excelent_or_Not.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Excelent_or_Not\Excelent_or_Not\obj\Debug\Excelent_or_Not.csprojResolveAssemblyReference.cache
+c:\users\marian\documents\visual studio 2015\Projects\Excelent_or_Not\Excelent_or_Not\obj\Debug\Excelent_or_Not.exe
+c:\users\marian\documents\visual studio 2015\Projects\Excelent_or_Not\Excelent_or_Not\obj\Debug\Excelent_or_Not.pdb

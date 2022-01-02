@@ -1,0 +1,9 @@
+c:\users\marian\documents\visual studio 2015\Projects\DotAndRectangle\DotAndRectangle\bin\Debug\DotAndRectangle.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\DotAndRectangle\DotAndRectangle\bin\Debug\DotAndRectangle.exe
+c:\users\marian\documents\visual studio 2015\Projects\DotAndRectangle\DotAndRectangle\bin\Debug\DotAndRectangle.pdb
+c:\users\marian\documents\visual studio 2015\Projects\DotAndRectangle\DotAndRectangle\obj\Debug\DotAndRectangle.csprojResolveAssemblyReference.cache
+c:\users\marian\documents\visual studio 2015\Projects\DotAndRectangle\DotAndRectangle\obj\Debug\DotAndRectangle.FormPointAndRectangle.resources
+c:\users\marian\documents\visual studio 2015\Projects\DotAndRectangle\DotAndRectangle\obj\Debug\DotAndRectangle.Properties.Resources.resources
+c:\users\marian\documents\visual studio 2015\Projects\DotAndRectangle\DotAndRectangle\obj\Debug\DotAndRectangle.csproj.GenerateResource.Cache
+c:\users\marian\documents\visual studio 2015\Projects\DotAndRectangle\DotAndRectangle\obj\Debug\DotAndRectangle.exe
+c:\users\marian\documents\visual studio 2015\Projects\DotAndRectangle\DotAndRectangle\obj\Debug\DotAndRectangle.pdb

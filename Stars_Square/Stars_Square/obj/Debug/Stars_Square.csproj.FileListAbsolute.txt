@@ -1,0 +1,5 @@
+c:\users\marian\documents\visual studio 2015\Projects\Stars_Square\Stars_Square\bin\Debug\Stars_Square.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Stars_Square\Stars_Square\bin\Debug\Stars_Square.exe
+c:\users\marian\documents\visual studio 2015\Projects\Stars_Square\Stars_Square\bin\Debug\Stars_Square.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Stars_Square\Stars_Square\obj\Debug\Stars_Square.exe
+c:\users\marian\documents\visual studio 2015\Projects\Stars_Square\Stars_Square\obj\Debug\Stars_Square.pdb

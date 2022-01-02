@@ -1,0 +1,5 @@
+c:\users\marian\documents\visual studio 2015\Projects\Employee_Data\Employee_Data\bin\Debug\Employee_Data.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Employee_Data\Employee_Data\bin\Debug\Employee_Data.exe
+c:\users\marian\documents\visual studio 2015\Projects\Employee_Data\Employee_Data\bin\Debug\Employee_Data.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Employee_Data\Employee_Data\obj\Debug\Employee_Data.exe
+c:\users\marian\documents\visual studio 2015\Projects\Employee_Data\Employee_Data\obj\Debug\Employee_Data.pdb

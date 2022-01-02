@@ -1,0 +1,5 @@
+c:\users\marian\documents\visual studio 2015\Projects\USD_to_BGN\USD_to_BGN\bin\Debug\USD_to_BGN.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\USD_to_BGN\USD_to_BGN\bin\Debug\USD_to_BGN.exe
+c:\users\marian\documents\visual studio 2015\Projects\USD_to_BGN\USD_to_BGN\bin\Debug\USD_to_BGN.pdb
+c:\users\marian\documents\visual studio 2015\Projects\USD_to_BGN\USD_to_BGN\obj\Debug\USD_to_BGN.exe
+c:\users\marian\documents\visual studio 2015\Projects\USD_to_BGN\USD_to_BGN\obj\Debug\USD_to_BGN.pdb

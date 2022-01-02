@@ -1,0 +1,5 @@
+c:\users\marian\documents\visual studio 2015\Projects\Exchange_Variable_Values\Exchange_Variable_Values\bin\Debug\Exchange_Variable_Values.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Exchange_Variable_Values\Exchange_Variable_Values\bin\Debug\Exchange_Variable_Values.exe
+c:\users\marian\documents\visual studio 2015\Projects\Exchange_Variable_Values\Exchange_Variable_Values\bin\Debug\Exchange_Variable_Values.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Exchange_Variable_Values\Exchange_Variable_Values\obj\Debug\Exchange_Variable_Values.exe
+c:\users\marian\documents\visual studio 2015\Projects\Exchange_Variable_Values\Exchange_Variable_Values\obj\Debug\Exchange_Variable_Values.pdb

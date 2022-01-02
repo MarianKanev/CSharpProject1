@@ -1,0 +1,5 @@
+c:\users\marian\documents\visual studio 2015\Projects\Integer_Variables\Integer_Variables\bin\Debug\Integer_Variables.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Integer_Variables\Integer_Variables\bin\Debug\Integer_Variables.exe
+c:\users\marian\documents\visual studio 2015\Projects\Integer_Variables\Integer_Variables\bin\Debug\Integer_Variables.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Integer_Variables\Integer_Variables\obj\Debug\Integer_Variables.exe
+c:\users\marian\documents\visual studio 2015\Projects\Integer_Variables\Integer_Variables\obj\Debug\Integer_Variables.pdb

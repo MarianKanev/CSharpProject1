@@ -1,0 +1,6 @@
+c:\users\marian\documents\visual studio 2015\Projects\Triangleof55Stars\Triangleof55Stars\bin\Debug\Triangleof55Stars.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Triangleof55Stars\Triangleof55Stars\bin\Debug\Triangleof55Stars.exe
+c:\users\marian\documents\visual studio 2015\Projects\Triangleof55Stars\Triangleof55Stars\bin\Debug\Triangleof55Stars.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Triangleof55Stars\Triangleof55Stars\obj\Debug\Triangleof55Stars.exe
+c:\users\marian\documents\visual studio 2015\Projects\Triangleof55Stars\Triangleof55Stars\obj\Debug\Triangleof55Stars.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Triangleof55Stars\Triangleof55Stars\obj\Debug\Triangleof55Stars.csprojResolveAssemblyReference.cache

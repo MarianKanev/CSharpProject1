@@ -1,0 +1,19 @@
+c:\users\marian\documents\visual studio 2015\Projects\BG_EUR_Convertor\BG_EUR_Convertor\bin\Debug\BG_EUR_Convertor.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\BG_EUR_Convertor\BG_EUR_Convertor\bin\Debug\BG_EUR_Convertor.exe
+c:\users\marian\documents\visual studio 2015\Projects\BG_EUR_Convertor\BG_EUR_Convertor\bin\Debug\BG_EUR_Convertor.pdb
+c:\users\marian\documents\visual studio 2015\Projects\BG_EUR_Convertor\BG_EUR_Convertor\obj\Debug\BG_EUR_Convertor.csprojResolveAssemblyReference.cache
+c:\users\marian\documents\visual studio 2015\Projects\BG_EUR_Convertor\BG_EUR_Convertor\obj\Debug\BG_EUR_Convertor.Form1.resources
+c:\users\marian\documents\visual studio 2015\Projects\BG_EUR_Convertor\BG_EUR_Convertor\obj\Debug\BG_EUR_Convertor.Properties.Resources.resources
+c:\users\marian\documents\visual studio 2015\Projects\BG_EUR_Convertor\BG_EUR_Convertor\obj\Debug\BG_EUR_Convertor.csproj.GenerateResource.Cache
+c:\users\marian\documents\visual studio 2015\Projects\BG_EUR_Convertor\BG_EUR_Convertor\obj\Debug\BG_EUR_Convertor.exe
+c:\users\marian\documents\visual studio 2015\Projects\BG_EUR_Convertor\BG_EUR_Convertor\obj\Debug\BG_EUR_Convertor.pdb
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\BG_EUR_Convertor\BG_EUR_Convertor\bin\Debug\BG_EUR_Convertor.exe.config
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\BG_EUR_Convertor\BG_EUR_Convertor\bin\Debug\BG_EUR_Convertor.exe
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\BG_EUR_Convertor\BG_EUR_Convertor\bin\Debug\BG_EUR_Convertor.pdb
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\BG_EUR_Convertor\BG_EUR_Convertor\obj\Debug\BG_EUR_Convertor.csprojAssemblyReference.cache
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\BG_EUR_Convertor\BG_EUR_Convertor\obj\Debug\BG_EUR_Convertor.Form1.resources
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\BG_EUR_Convertor\BG_EUR_Convertor\obj\Debug\BG_EUR_Convertor.Properties.Resources.resources
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\BG_EUR_Convertor\BG_EUR_Convertor\obj\Debug\BG_EUR_Convertor.csproj.GenerateResource.cache
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\BG_EUR_Convertor\BG_EUR_Convertor\obj\Debug\BG_EUR_Convertor.csproj.CoreCompileInputs.cache
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\BG_EUR_Convertor\BG_EUR_Convertor\obj\Debug\BG_EUR_Convertor.exe
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\BG_EUR_Convertor\BG_EUR_Convertor\obj\Debug\BG_EUR_Convertor.pdb

@@ -1,0 +1,11 @@
+c:\users\marian-pc\documents\visual studio 2015\Projects\Read_Write\Read_Write\bin\Debug\Read_Write.exe.config
+c:\users\marian-pc\documents\visual studio 2015\Projects\Read_Write\Read_Write\bin\Debug\Read_Write.exe
+c:\users\marian-pc\documents\visual studio 2015\Projects\Read_Write\Read_Write\bin\Debug\Read_Write.pdb
+c:\users\marian-pc\documents\visual studio 2015\Projects\Read_Write\Read_Write\obj\Debug\Read_Write.exe
+c:\users\marian-pc\documents\visual studio 2015\Projects\Read_Write\Read_Write\obj\Debug\Read_Write.pdb
+C:\Users\Marian\Documents\Visual Studio 2015\Projects\Read_Write\Read_Write\bin\Debug\Read_Write.exe.config
+C:\Users\Marian\Documents\Visual Studio 2015\Projects\Read_Write\Read_Write\obj\Debug\Read_Write.exe
+C:\Users\Marian\Documents\Visual Studio 2015\Projects\Read_Write\Read_Write\obj\Debug\Read_Write.pdb
+C:\Users\Marian\Documents\Visual Studio 2015\Projects\Read_Write\Read_Write\bin\Debug\Read_Write.exe
+C:\Users\Marian\Documents\Visual Studio 2015\Projects\Read_Write\Read_Write\bin\Debug\Read_Write.pdb
+C:\Users\Marian\Documents\Visual Studio 2015\Projects\Read_Write\Read_Write\obj\Debug\Read_Write.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\marian\documents\visual studio 2015\Projects\Rad_to_Deg\Rad_to_Deg\bin\Debug\Rad_to_Deg.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Rad_to_Deg\Rad_to_Deg\bin\Debug\Rad_to_Deg.exe
+c:\users\marian\documents\visual studio 2015\Projects\Rad_to_Deg\Rad_to_Deg\bin\Debug\Rad_to_Deg.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Rad_to_Deg\Rad_to_Deg\obj\Debug\Rad_to_Deg.exe
+c:\users\marian\documents\visual studio 2015\Projects\Rad_to_Deg\Rad_to_Deg\obj\Debug\Rad_to_Deg.pdb

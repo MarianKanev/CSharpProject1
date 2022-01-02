@@ -1,0 +1,11 @@
+c:\users\marian\documents\visual studio 2015\Projects\Number 0 to 10 words\Number 0 to 10 words\bin\Debug\Number 0 to 10 words.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Number 0 to 10 words\Number 0 to 10 words\bin\Debug\Number 0 to 10 words.exe
+c:\users\marian\documents\visual studio 2015\Projects\Number 0 to 10 words\Number 0 to 10 words\bin\Debug\Number 0 to 10 words.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Number 0 to 10 words\Number 0 to 10 words\obj\Debug\Number 0 to 10 words.exe
+c:\users\marian\documents\visual studio 2015\Projects\Number 0 to 10 words\Number 0 to 10 words\obj\Debug\Number 0 to 10 words.pdb
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\Number 0 to 10 words\Number 0 to 10 words\bin\Debug\Number 0 to 10 words.exe.config
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\Number 0 to 10 words\Number 0 to 10 words\bin\Debug\Number 0 to 10 words.exe
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\Number 0 to 10 words\Number 0 to 10 words\bin\Debug\Number 0 to 10 words.pdb
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\Number 0 to 10 words\Number 0 to 10 words\obj\Debug\Number 0 to 10 words.csproj.CoreCompileInputs.cache
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\Number 0 to 10 words\Number 0 to 10 words\obj\Debug\Number 0 to 10 words.exe
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\Number 0 to 10 words\Number 0 to 10 words\obj\Debug\Number 0 to 10 words.pdb

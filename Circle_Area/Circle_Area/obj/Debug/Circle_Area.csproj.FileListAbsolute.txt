@@ -1,0 +1,5 @@
+c:\users\marian\documents\visual studio 2015\Projects\Circle_Area\Circle_Area\bin\Debug\Circle_Area.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Circle_Area\Circle_Area\bin\Debug\Circle_Area.exe
+c:\users\marian\documents\visual studio 2015\Projects\Circle_Area\Circle_Area\bin\Debug\Circle_Area.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Circle_Area\Circle_Area\obj\Debug\Circle_Area.exe
+c:\users\marian\documents\visual studio 2015\Projects\Circle_Area\Circle_Area\obj\Debug\Circle_Area.pdb

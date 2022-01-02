@@ -1,0 +1,13 @@
+c:\users\marian\documents\visual studio 2015\Projects\1000_Days_after_Birth\1000_Days_after_Birth\bin\Debug\1000_Days_after_Birth.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\1000_Days_after_Birth\1000_Days_after_Birth\bin\Debug\1000_Days_after_Birth.exe
+c:\users\marian\documents\visual studio 2015\Projects\1000_Days_after_Birth\1000_Days_after_Birth\bin\Debug\1000_Days_after_Birth.pdb
+c:\users\marian\documents\visual studio 2015\Projects\1000_Days_after_Birth\1000_Days_after_Birth\obj\Debug\1000_Days_after_Birth.csprojResolveAssemblyReference.cache
+c:\users\marian\documents\visual studio 2015\Projects\1000_Days_after_Birth\1000_Days_after_Birth\obj\Debug\1000_Days_after_Birth.exe
+c:\users\marian\documents\visual studio 2015\Projects\1000_Days_after_Birth\1000_Days_after_Birth\obj\Debug\1000_Days_after_Birth.pdb
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\1000_Days_after_Birth\1000_Days_after_Birth\bin\Debug\1000_Days_after_Birth.exe.config
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\1000_Days_after_Birth\1000_Days_after_Birth\bin\Debug\1000_Days_after_Birth.exe
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\1000_Days_after_Birth\1000_Days_after_Birth\bin\Debug\1000_Days_after_Birth.pdb
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\1000_Days_after_Birth\1000_Days_after_Birth\obj\Debug\1000_Days_after_Birth.csprojAssemblyReference.cache
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\1000_Days_after_Birth\1000_Days_after_Birth\obj\Debug\1000_Days_after_Birth.csproj.CoreCompileInputs.cache
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\1000_Days_after_Birth\1000_Days_after_Birth\obj\Debug\1000_Days_after_Birth.exe
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\1000_Days_after_Birth\1000_Days_after_Birth\obj\Debug\1000_Days_after_Birth.pdb

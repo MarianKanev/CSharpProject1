@@ -1,0 +1,6 @@
+c:\users\marian\documents\visual studio 2015\Projects\Square_Digits\Square_Digits\bin\Debug\Square_Digits.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Square_Digits\Square_Digits\bin\Debug\Square_Digits.exe
+c:\users\marian\documents\visual studio 2015\Projects\Square_Digits\Square_Digits\bin\Debug\Square_Digits.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Square_Digits\Square_Digits\obj\Debug\Square_Digits.exe
+c:\users\marian\documents\visual studio 2015\Projects\Square_Digits\Square_Digits\obj\Debug\Square_Digits.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Square_Digits\Square_Digits\obj\Debug\Square_Digits.csprojResolveAssemblyReference.cache

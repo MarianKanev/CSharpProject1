@@ -1,0 +1,6 @@
+c:\users\marian\documents\visual studio 2015\Projects\Reverse_Characters\Reverse_Characters\bin\Debug\Reverse_Characters.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Reverse_Characters\Reverse_Characters\bin\Debug\Reverse_Characters.exe
+c:\users\marian\documents\visual studio 2015\Projects\Reverse_Characters\Reverse_Characters\bin\Debug\Reverse_Characters.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Reverse_Characters\Reverse_Characters\obj\Debug\Reverse_Characters.exe
+c:\users\marian\documents\visual studio 2015\Projects\Reverse_Characters\Reverse_Characters\obj\Debug\Reverse_Characters.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Reverse_Characters\Reverse_Characters\obj\Debug\Reverse_Characters.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\marian\documents\visual studio 2015\Projects\2D_Rectangle_Area\2D_Rectangle_Area\bin\Debug\2D_Rectangle_Area.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\2D_Rectangle_Area\2D_Rectangle_Area\bin\Debug\2D_Rectangle_Area.exe
+c:\users\marian\documents\visual studio 2015\Projects\2D_Rectangle_Area\2D_Rectangle_Area\bin\Debug\2D_Rectangle_Area.pdb
+c:\users\marian\documents\visual studio 2015\Projects\2D_Rectangle_Area\2D_Rectangle_Area\obj\Debug\2D_Rectangle_Area.exe
+c:\users\marian\documents\visual studio 2015\Projects\2D_Rectangle_Area\2D_Rectangle_Area\obj\Debug\2D_Rectangle_Area.pdb
+c:\users\marian\documents\visual studio 2015\Projects\2D_Rectangle_Area\2D_Rectangle_Area\obj\Debug\2D_Rectangle_Area.csprojResolveAssemblyReference.cache

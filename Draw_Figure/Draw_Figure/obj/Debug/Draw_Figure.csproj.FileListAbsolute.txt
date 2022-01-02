@@ -1,0 +1,6 @@
+c:\users\marian\documents\visual studio 2015\Projects\Draw_Figure\Draw_Figure\bin\Debug\Draw_Figure.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Draw_Figure\Draw_Figure\bin\Debug\Draw_Figure.exe
+c:\users\marian\documents\visual studio 2015\Projects\Draw_Figure\Draw_Figure\bin\Debug\Draw_Figure.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Draw_Figure\Draw_Figure\obj\Debug\Draw_Figure.csprojResolveAssemblyReference.cache
+c:\users\marian\documents\visual studio 2015\Projects\Draw_Figure\Draw_Figure\obj\Debug\Draw_Figure.exe
+c:\users\marian\documents\visual studio 2015\Projects\Draw_Figure\Draw_Figure\obj\Debug\Draw_Figure.pdb

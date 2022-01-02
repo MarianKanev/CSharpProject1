@@ -1,0 +1,5 @@
+c:\users\marian\documents\visual studio 2015\Projects\Greetings\Greetings\bin\Debug\Greetings.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Greetings\Greetings\bin\Debug\Greetings.exe
+c:\users\marian\documents\visual studio 2015\Projects\Greetings\Greetings\bin\Debug\Greetings.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Greetings\Greetings\obj\Debug\Greetings.exe
+c:\users\marian\documents\visual studio 2015\Projects\Greetings\Greetings\obj\Debug\Greetings.pdb

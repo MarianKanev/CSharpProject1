@@ -1,0 +1,5 @@
+c:\users\marian\documents\visual studio 2015\Projects\Pyramid_Digits\Pyramid_Digits\bin\Debug\Pyramid_Digits.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Pyramid_Digits\Pyramid_Digits\bin\Debug\Pyramid_Digits.exe
+c:\users\marian\documents\visual studio 2015\Projects\Pyramid_Digits\Pyramid_Digits\bin\Debug\Pyramid_Digits.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Pyramid_Digits\Pyramid_Digits\obj\Debug\Pyramid_Digits.exe
+c:\users\marian\documents\visual studio 2015\Projects\Pyramid_Digits\Pyramid_Digits\obj\Debug\Pyramid_Digits.pdb

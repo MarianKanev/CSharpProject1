@@ -1,0 +1,6 @@
+c:\users\marian\documents\visual studio 2015\Projects\Numbers_from_1_to_100\Numbers_from_1_to_100\bin\Debug\Numbers_from_1_to_100.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Numbers_from_1_to_100\Numbers_from_1_to_100\bin\Debug\Numbers_from_1_to_100.exe
+c:\users\marian\documents\visual studio 2015\Projects\Numbers_from_1_to_100\Numbers_from_1_to_100\bin\Debug\Numbers_from_1_to_100.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Numbers_from_1_to_100\Numbers_from_1_to_100\obj\Debug\Numbers_from_1_to_100.csprojResolveAssemblyReference.cache
+c:\users\marian\documents\visual studio 2015\Projects\Numbers_from_1_to_100\Numbers_from_1_to_100\obj\Debug\Numbers_from_1_to_100.exe
+c:\users\marian\documents\visual studio 2015\Projects\Numbers_from_1_to_100\Numbers_from_1_to_100\obj\Debug\Numbers_from_1_to_100.pdb

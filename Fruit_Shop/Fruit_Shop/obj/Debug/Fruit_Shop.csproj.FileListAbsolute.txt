@@ -1,0 +1,12 @@
+c:\users\marian\documents\visual studio 2015\Projects\Fruit_Shop\Fruit_Shop\bin\Debug\Fruit_Shop.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Fruit_Shop\Fruit_Shop\bin\Debug\Fruit_Shop.exe
+c:\users\marian\documents\visual studio 2015\Projects\Fruit_Shop\Fruit_Shop\bin\Debug\Fruit_Shop.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Fruit_Shop\Fruit_Shop\obj\Debug\Fruit_Shop.csprojResolveAssemblyReference.cache
+c:\users\marian\documents\visual studio 2015\Projects\Fruit_Shop\Fruit_Shop\obj\Debug\Fruit_Shop.exe
+c:\users\marian\documents\visual studio 2015\Projects\Fruit_Shop\Fruit_Shop\obj\Debug\Fruit_Shop.pdb
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\Fruit_Shop\Fruit_Shop\bin\Debug\Fruit_Shop.exe.config
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\Fruit_Shop\Fruit_Shop\bin\Debug\Fruit_Shop.exe
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\Fruit_Shop\Fruit_Shop\bin\Debug\Fruit_Shop.pdb
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\Fruit_Shop\Fruit_Shop\obj\Debug\Fruit_Shop.csproj.CoreCompileInputs.cache
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\Fruit_Shop\Fruit_Shop\obj\Debug\Fruit_Shop.exe
+D:\FOR SAVING\PROGRAMMING\C charp my Projects\Fruit_Shop\Fruit_Shop\obj\Debug\Fruit_Shop.pdb

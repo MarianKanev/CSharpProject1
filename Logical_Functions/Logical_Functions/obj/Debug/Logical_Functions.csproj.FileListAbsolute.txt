@@ -1,0 +1,6 @@
+c:\users\marian\documents\visual studio 2015\Projects\Logical_Functions\Logical_Functions\bin\Debug\Logical_Functions.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Logical_Functions\Logical_Functions\bin\Debug\Logical_Functions.exe
+c:\users\marian\documents\visual studio 2015\Projects\Logical_Functions\Logical_Functions\bin\Debug\Logical_Functions.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Logical_Functions\Logical_Functions\obj\Debug\Logical_Functions.csprojResolveAssemblyReference.cache
+c:\users\marian\documents\visual studio 2015\Projects\Logical_Functions\Logical_Functions\obj\Debug\Logical_Functions.exe
+c:\users\marian\documents\visual studio 2015\Projects\Logical_Functions\Logical_Functions\obj\Debug\Logical_Functions.pdb

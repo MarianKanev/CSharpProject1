@@ -1,0 +1,5 @@
+c:\users\marian\documents\visual studio 2015\Projects\Rectangle_Area\Rectangle_Area\bin\Debug\Rectangle_Area.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Rectangle_Area\Rectangle_Area\bin\Debug\Rectangle_Area.exe
+c:\users\marian\documents\visual studio 2015\Projects\Rectangle_Area\Rectangle_Area\bin\Debug\Rectangle_Area.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Rectangle_Area\Rectangle_Area\obj\Debug\Rectangle_Area.exe
+c:\users\marian\documents\visual studio 2015\Projects\Rectangle_Area\Rectangle_Area\obj\Debug\Rectangle_Area.pdb

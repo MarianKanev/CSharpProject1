@@ -1,0 +1,6 @@
+c:\users\marian\documents\visual studio 2015\Projects\Trapezoid-Area\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Trapezoid-Area\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe
+c:\users\marian\documents\visual studio 2015\Projects\Trapezoid-Area\Trapezoid-Area\bin\Debug\Trapezoid-Area.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Trapezoid-Area\Trapezoid-Area\obj\Debug\Trapezoid-Area.csprojResolveAssemblyReference.cache
+c:\users\marian\documents\visual studio 2015\Projects\Trapezoid-Area\Trapezoid-Area\obj\Debug\Trapezoid-Area.exe
+c:\users\marian\documents\visual studio 2015\Projects\Trapezoid-Area\Trapezoid-Area\obj\Debug\Trapezoid-Area.pdb

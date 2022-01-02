@@ -1,0 +1,6 @@
+c:\users\marian\documents\visual studio 2015\Projects\Centuries_Nanoseconds\Centuries_Nanoseconds\bin\Debug\Centuries_Nanoseconds.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Centuries_Nanoseconds\Centuries_Nanoseconds\bin\Debug\Centuries_Nanoseconds.exe
+c:\users\marian\documents\visual studio 2015\Projects\Centuries_Nanoseconds\Centuries_Nanoseconds\bin\Debug\Centuries_Nanoseconds.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Centuries_Nanoseconds\Centuries_Nanoseconds\obj\Debug\Centuries_Nanoseconds.csprojResolveAssemblyReference.cache
+c:\users\marian\documents\visual studio 2015\Projects\Centuries_Nanoseconds\Centuries_Nanoseconds\obj\Debug\Centuries_Nanoseconds.exe
+c:\users\marian\documents\visual studio 2015\Projects\Centuries_Nanoseconds\Centuries_Nanoseconds\obj\Debug\Centuries_Nanoseconds.pdb

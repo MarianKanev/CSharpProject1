@@ -1,0 +1,5 @@
+c:\users\marian\documents\visual studio 2015\Projects\FloatingPoint\FloatingPoint\bin\Release\FloatingPoint.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\FloatingPoint\FloatingPoint\bin\Release\FloatingPoint.exe
+c:\users\marian\documents\visual studio 2015\Projects\FloatingPoint\FloatingPoint\bin\Release\FloatingPoint.pdb
+c:\users\marian\documents\visual studio 2015\Projects\FloatingPoint\FloatingPoint\obj\Release\FloatingPoint.exe
+c:\users\marian\documents\visual studio 2015\Projects\FloatingPoint\FloatingPoint\obj\Release\FloatingPoint.pdb

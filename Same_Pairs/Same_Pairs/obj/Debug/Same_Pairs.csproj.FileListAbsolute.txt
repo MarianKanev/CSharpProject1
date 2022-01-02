@@ -1,0 +1,6 @@
+c:\users\marian\documents\visual studio 2015\Projects\Same_Pairs\Same_Pairs\bin\Debug\Same_Pairs.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Same_Pairs\Same_Pairs\bin\Debug\Same_Pairs.exe
+c:\users\marian\documents\visual studio 2015\Projects\Same_Pairs\Same_Pairs\bin\Debug\Same_Pairs.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Same_Pairs\Same_Pairs\obj\Debug\Same_Pairs.csprojResolveAssemblyReference.cache
+c:\users\marian\documents\visual studio 2015\Projects\Same_Pairs\Same_Pairs\obj\Debug\Same_Pairs.exe
+c:\users\marian\documents\visual studio 2015\Projects\Same_Pairs\Same_Pairs\obj\Debug\Same_Pairs.pdb

@@ -1,0 +1,8 @@
+c:\users\marian-pc\documents\visual studio 2015\Projects\ConsoleApplication_SAP_Connect\ConsoleApplication_SAP_Connect\bin\Debug\ConsoleApplication_SAP_Connect.exe.config
+C:\Users\Marian-PC\documents\visual studio 2015\Projects\ConsoleApplication_SAP_Connect\ConsoleApplication_SAP_Connect\obj\Debug\ConsoleApplication_SAP_Connect.csprojResolveAssemblyReference.cache
+C:\Users\Marian-PC\documents\visual studio 2015\Projects\ConsoleApplication_SAP_Connect\ConsoleApplication_SAP_Connect\bin\Debug\ConsoleApplication_SAP_Connect.exe
+C:\Users\Marian-PC\documents\visual studio 2015\Projects\ConsoleApplication_SAP_Connect\ConsoleApplication_SAP_Connect\bin\Debug\ConsoleApplication_SAP_Connect.pdb
+C:\Users\Marian-PC\documents\visual studio 2015\Projects\ConsoleApplication_SAP_Connect\ConsoleApplication_SAP_Connect\bin\Debug\sapnco.dll
+C:\Users\Marian-PC\documents\visual studio 2015\Projects\ConsoleApplication_SAP_Connect\ConsoleApplication_SAP_Connect\bin\Debug\sapnco_utils.dll
+C:\Users\Marian-PC\documents\visual studio 2015\Projects\ConsoleApplication_SAP_Connect\ConsoleApplication_SAP_Connect\obj\Debug\ConsoleApplication_SAP_Connect.exe
+C:\Users\Marian-PC\documents\visual studio 2015\Projects\ConsoleApplication_SAP_Connect\ConsoleApplication_SAP_Connect\obj\Debug\ConsoleApplication_SAP_Connect.pdb

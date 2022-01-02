@@ -1,0 +1,6 @@
+c:\users\marian\documents\visual studio 2015\Projects\Exelence_Result\Exelence_Result\bin\Debug\Exelence_Result.exe.config
+c:\users\marian\documents\visual studio 2015\Projects\Exelence_Result\Exelence_Result\bin\Debug\Exelence_Result.exe
+c:\users\marian\documents\visual studio 2015\Projects\Exelence_Result\Exelence_Result\bin\Debug\Exelence_Result.pdb
+c:\users\marian\documents\visual studio 2015\Projects\Exelence_Result\Exelence_Result\obj\Debug\Exelence_Result.csprojResolveAssemblyReference.cache
+c:\users\marian\documents\visual studio 2015\Projects\Exelence_Result\Exelence_Result\obj\Debug\Exelence_Result.exe
+c:\users\marian\documents\visual studio 2015\Projects\Exelence_Result\Exelence_Result\obj\Debug\Exelence_Result.pdb
