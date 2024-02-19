@@ -1,0 +1,15 @@
+C:\GitHubRepo\CSharpProjects\Check_Hours_Minutes\bin\Debug\net8.0\Check_Hours_Minutes.exe
+C:\GitHubRepo\CSharpProjects\Check_Hours_Minutes\bin\Debug\net8.0\Check_Hours_Minutes.deps.json
+C:\GitHubRepo\CSharpProjects\Check_Hours_Minutes\bin\Debug\net8.0\Check_Hours_Minutes.runtimeconfig.json
+C:\GitHubRepo\CSharpProjects\Check_Hours_Minutes\bin\Debug\net8.0\Check_Hours_Minutes.dll
+C:\GitHubRepo\CSharpProjects\Check_Hours_Minutes\bin\Debug\net8.0\Check_Hours_Minutes.pdb
+C:\GitHubRepo\CSharpProjects\Check_Hours_Minutes\obj\Debug\net8.0\Check_Hours_Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubRepo\CSharpProjects\Check_Hours_Minutes\obj\Debug\net8.0\Check_Hours_Minutes.AssemblyInfoInputs.cache
+C:\GitHubRepo\CSharpProjects\Check_Hours_Minutes\obj\Debug\net8.0\Check_Hours_Minutes.AssemblyInfo.cs
+C:\GitHubRepo\CSharpProjects\Check_Hours_Minutes\obj\Debug\net8.0\Check_Hours_Minutes.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\CSharpProjects\Check_Hours_Minutes\obj\Debug\net8.0\Check_Hours_Minutes.sourcelink.json
+C:\GitHubRepo\CSharpProjects\Check_Hours_Minutes\obj\Debug\net8.0\Check_Hours_Minutes.dll
+C:\GitHubRepo\CSharpProjects\Check_Hours_Minutes\obj\Debug\net8.0\refint\Check_Hours_Minutes.dll
+C:\GitHubRepo\CSharpProjects\Check_Hours_Minutes\obj\Debug\net8.0\Check_Hours_Minutes.pdb
+C:\GitHubRepo\CSharpProjects\Check_Hours_Minutes\obj\Debug\net8.0\Check_Hours_Minutes.genruntimeconfig.cache
+C:\GitHubRepo\CSharpProjects\Check_Hours_Minutes\obj\Debug\net8.0\ref\Check_Hours_Minutes.dll
